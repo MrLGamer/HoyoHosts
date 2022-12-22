@@ -1,0 +1,6 @@
+# 3.3.0 Logging (telemetry) servers for a certain anime game
+
+public-data-api.mihoyo.com
+log-upload.mihoyo.com
+sg-public-data-api.hoyoverse.com
+log-upload-os.hoyoverse.com
