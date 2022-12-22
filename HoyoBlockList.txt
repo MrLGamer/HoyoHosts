@@ -4,3 +4,9 @@ public-data-api.mihoyo.com
 log-upload.mihoyo.com
 sg-public-data-api.hoyoverse.com
 log-upload-os.hoyoverse.com
+
+# old logging servers 
+overseauspider.yuanshen.com
+
+# cn logging servers
+uspider.yuanshen.com
