@@ -1,4 +1,4 @@
-# 3.3.0 Logging (telemetry) servers for a certain anime game
+# 3.4.0 Logging (telemetry) servers for a certain anime game
 
 public-data-api.mihoyo.com
 log-upload.mihoyo.com
@@ -7,6 +7,7 @@ log-upload-os.hoyoverse.com
 
 # old logging servers 
 overseauspider.yuanshen.com
+log-upload-os.mihoyo.com
 
 # cn logging servers
 uspider.yuanshen.com
